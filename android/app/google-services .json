@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "122633473706",
+    "project_id": "gps-attendance-2026",
+    "storage_bucket": "gps-attendance-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122633473706:android:b9d0f6d60e1d4ba9b68ad3",
+        "android_client_info": {
+          "package_name": "com.attendance.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVClpr5HpIcpbf8LNO3PZR1zfxU6oM6f0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122633473706:android:ab8e1d13cf06a8f3b68ad3",
+        "android_client_info": {
+          "package_name": "com.retlaw.attendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVClpr5HpIcpbf8LNO3PZR1zfxU6oM6f0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
